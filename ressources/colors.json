@@ -1,0 +1,1208 @@
+[
+	{
+		"id": 41,
+		"name": "Aqua",
+		"group": 1,
+		"rgb": [188, 229, 220]
+	},
+	{
+		"id": 11,
+		"name": "Black",
+		"group": 1,
+		"rgb": [33, 33, 33]
+	},
+	{
+		"id": 7,
+		"name": "Blue",
+		"group": 1,
+		"rgb": [0, 87, 166]
+	},
+	{
+		"id": 97,
+		"name": "Blue-Violet",
+		"group": 1,
+		"rgb": [80, 108, 239]
+	},
+	{
+		"id": 36,
+		"name": "Bright Green",
+		"group": 1,
+		"rgb": [16, 203, 49]
+	},
+	{
+		"id": 105,
+		"name": "Bright Light Blue",
+		"group": 1,
+		"rgb": [188, 209, 237]
+	},
+	{
+		"id": 110,
+		"name": "Bright Light Orange",
+		"group": 1,
+		"rgb": [255, 199, 0]
+	},
+	{
+		"id": 103,
+		"name": "Bright Light Yellow",
+		"group": 1,
+		"rgb": [255, 240, 140]
+	},
+	{
+		"id": 104,
+		"name": "Bright Pink",
+		"group": 1,
+		"rgb": [247, 188, 218]
+	},
+	{
+		"id": 8,
+		"name": "Brown",
+		"group": 1,
+		"rgb": [107, 63, 34]
+	},
+	{
+		"id": 227,
+		"name": "Clikits Lavender",
+		"group": 1,
+		"rgb": [224, 170, 217]
+	},
+	{
+		"id": 220,
+		"name": "Coral",
+		"group": 1,
+		"rgb": [255, 129, 114]
+	},
+	{
+		"id": 153,
+		"name": "Dark Azure",
+		"group": 1,
+		"rgb": [0, 159, 224]
+	},
+	{
+		"id": 63,
+		"name": "Dark Blue",
+		"group": 1,
+		"rgb": [36, 55, 87]
+	},
+	{
+		"id": 109,
+		"name": "Dark Blue-Violet",
+		"group": 1,
+		"rgb": [32, 50, 176]
+	},
+	{
+		"id": 85,
+		"name": "Dark Bluish Gray",
+		"group": 1,
+		"rgb": [89, 93, 96]
+	},
+	{
+		"id": 120,
+		"name": "Dark Brown",
+		"group": 1,
+		"rgb": [80, 55, 47]
+	},
+	{
+		"id": 10,
+		"name": "Dark Gray",
+		"group": 1,
+		"rgb": [107, 90, 90]
+	},
+	{
+		"id": 80,
+		"name": "Dark Green",
+		"group": 1,
+		"rgb": [46, 85, 67]
+	},
+	{
+		"id": 225,
+		"name": "Dark Nougat",
+		"group": 1,
+		"rgb": [206, 121, 66]
+	},
+	{
+		"id": 242,
+		"name": "Dark Olive Green",
+		"group": 1,
+		"rgb": [118, 117, 63]
+	},
+	{
+		"id": 68,
+		"name": "Dark Orange",
+		"group": 1,
+		"rgb": [179, 84, 8]
+	},
+	{
+		"id": 47,
+		"name": "Dark Pink",
+		"group": 1,
+		"rgb": [239, 91, 179]
+	},
+	{
+		"id": 89,
+		"name": "Dark Purple",
+		"group": 1,
+		"rgb": [95, 38, 131]
+	},
+	{
+		"id": 59,
+		"name": "Dark Red",
+		"group": 1,
+		"rgb": [106, 14, 21]
+	},
+	{
+		"id": 231,
+		"name": "Dark Salmon",
+		"group": 1,
+		"rgb": [255, 99, 38]
+	},
+	{
+		"id": 69,
+		"name": "Dark Tan",
+		"group": 1,
+		"rgb": [184, 152, 105]
+	},
+	{
+		"id": 39,
+		"name": "Dark Turquoise",
+		"group": 1,
+		"rgb": [0, 162, 159]
+	},
+	{
+		"id": 161,
+		"name": "Dark Yellow",
+		"group": 1,
+		"rgb": [221, 152, 46]
+	},
+	{
+		"id": 29,
+		"name": "Earth Orange",
+		"group": 1,
+		"rgb": [230, 136, 29]
+	},
+	{
+		"id": 106,
+		"name": "Fabuland Brown",
+		"group": 1,
+		"rgb": [179, 105, 78]
+	},
+	{
+		"id": 248,
+		"name": "Fabuland Lime",
+		"group": 1,
+		"rgb": [173, 210, 55]
+	},
+	{
+		"id": 160,
+		"name": "Fabuland Orange",
+		"group": 1,
+		"rgb": [239, 145, 33]
+	},
+	{
+		"id": 6,
+		"name": "Green",
+		"group": 1,
+		"rgb": [0, 146, 61]
+	},
+	{
+		"id": 154,
+		"name": "Lavender",
+		"group": 1,
+		"rgb": [211, 189, 227]
+	},
+	{
+		"id": 152,
+		"name": "Light Aqua",
+		"group": 1,
+		"rgb": [207, 239, 234]
+	},
+	{
+		"id": 62,
+		"name": "Light Blue",
+		"group": 1,
+		"rgb": [200, 217, 225]
+	},
+	{
+		"id": 86,
+		"name": "Light Bluish Gray",
+		"group": 1,
+		"rgb": [175, 181, 199]
+	},
+	{
+		"id": 91,
+		"name": "Light Brown",
+		"group": 1,
+		"rgb": [153, 102, 62]
+	},
+	{
+		"id": 9,
+		"name": "Light Gray",
+		"group": 1,
+		"rgb": [156, 156, 156]
+	},
+	{
+		"id": 38,
+		"name": "Light Green",
+		"group": 1,
+		"rgb": [215, 238, 209]
+	},
+	{
+		"id": 246,
+		"name": "Light Lilac",
+		"group": 1,
+		"rgb": [205, 204, 238]
+	},
+	{
+		"id": 35,
+		"name": "Light Lime",
+		"group": 1,
+		"rgb": [236, 238, 189]
+	},
+	{
+		"id": 90,
+		"name": "Light Nougat",
+		"group": 1,
+		"rgb": [254, 204, 176]
+	},
+	{
+		"id": 32,
+		"name": "Light Orange",
+		"group": 1,
+		"rgb": [255, 188, 54]
+	},
+	{
+		"id": 56,
+		"name": "Light Pink",
+		"group": 1,
+		"rgb": [242, 211, 209]
+	},
+	{
+		"id": 93,
+		"name": "Light Purple",
+		"group": 1,
+		"rgb": [175, 49, 149]
+	},
+	{
+		"id": 26,
+		"name": "Light Salmon",
+		"group": 1,
+		"rgb": [252, 199, 183]
+	},
+	{
+		"id": 40,
+		"name": "Light Turquoise",
+		"group": 1,
+		"rgb": [0, 197, 188]
+	},
+	{
+		"id": 44,
+		"name": "Light Violet",
+		"group": 1,
+		"rgb": [201, 202, 226]
+	},
+	{
+		"id": 33,
+		"name": "Light Yellow",
+		"group": 1,
+		"rgb": [254, 232, 159]
+	},
+	{
+		"id": 245,
+		"name": "Lilac",
+		"group": 1,
+		"rgb": [120, 98, 206]
+	},
+	{
+		"id": 34,
+		"name": "Lime",
+		"group": 1,
+		"rgb": [196, 224, 0]
+	},
+	{
+		"id": 247,
+		"name": "Little Robots Blue",
+		"group": 1,
+		"rgb": [93, 191, 228]
+	},
+	{
+		"id": 72,
+		"name": "Maersk Blue",
+		"group": 1,
+		"rgb": [125, 193, 216]
+	},
+	{
+		"id": 71,
+		"name": "Magenta",
+		"group": 1,
+		"rgb": [183, 34, 118]
+	},
+	{
+		"id": 156,
+		"name": "Medium Azure",
+		"group": 1,
+		"rgb": [106, 206, 224]
+	},
+	{
+		"id": 42,
+		"name": "Medium Blue",
+		"group": 1,
+		"rgb": [130, 173, 216]
+	},
+	{
+		"id": 240,
+		"name": "Medium Brown",
+		"group": 1,
+		"rgb": [161, 108, 66]
+	},
+	{
+		"id": 94,
+		"name": "Medium Dark Pink",
+		"group": 1,
+		"rgb": [247, 133, 177]
+	},
+	{
+		"id": 37,
+		"name": "Medium Green",
+		"group": 1,
+		"rgb": [145, 223, 140]
+	},
+	{
+		"id": 157,
+		"name": "Medium Lavender",
+		"group": 1,
+		"rgb": [198, 137, 217]
+	},
+	{
+		"id": 76,
+		"name": "Medium Lime",
+		"group": 1,
+		"rgb": [223, 224, 0]
+	},
+	{
+		"id": 150,
+		"name": "Medium Nougat",
+		"group": 1,
+		"rgb": [227, 160, 91]
+	},
+	{
+		"id": 31,
+		"name": "Medium Orange",
+		"group": 1,
+		"rgb": [255, 165, 49]
+	},
+	{
+		"id": 241,
+		"name": "Medium Tan",
+		"group": 1,
+		"rgb": [217, 197, 148]
+	},
+	{
+		"id": 73,
+		"name": "Medium Violet",
+		"group": 1,
+		"rgb": [147, 145, 228]
+	},
+	{
+		"id": 166,
+		"name": "Neon Green",
+		"group": 1,
+		"rgb": [219, 243, 85]
+	},
+	{
+		"id": 165,
+		"name": "Neon Orange",
+		"group": 1,
+		"rgb": [250, 89, 71]
+	},
+	{
+		"id": 236,
+		"name": "Neon Yellow",
+		"group": 1,
+		"rgb": [255, 252, 0]
+	},
+	{
+		"id": 28,
+		"name": "Nougat",
+		"group": 1,
+		"rgb": [255, 175, 125]
+	},
+	{
+		"id": 155,
+		"name": "Olive Green",
+		"group": 1,
+		"rgb": [171, 169, 83]
+	},
+	{
+		"id": 4,
+		"name": "Orange",
+		"group": 1,
+		"rgb": [255, 126, 20]
+	},
+	{
+		"id": 23,
+		"name": "Pink",
+		"group": 1,
+		"rgb": [245, 205, 214]
+	},
+	{
+		"id": 24,
+		"name": "Purple",
+		"group": 1,
+		"rgb": [122, 35, 141]
+	},
+	{
+		"id": 5,
+		"name": "Red",
+		"group": 1,
+		"rgb": [179, 0, 6]
+	},
+	{
+		"id": 88,
+		"name": "Reddish Brown",
+		"group": 1,
+		"rgb": [130, 66, 42]
+	},
+	{
+		"id": 27,
+		"name": "Rust",
+		"group": 1,
+		"rgb": [178, 72, 23]
+	},
+	{
+		"id": 25,
+		"name": "Salmon",
+		"group": 1,
+		"rgb": [255, 125, 93]
+	},
+	{
+		"id": 55,
+		"name": "Sand Blue",
+		"group": 1,
+		"rgb": [136, 153, 171]
+	},
+	{
+		"id": 48,
+		"name": "Sand Green",
+		"group": 1,
+		"rgb": [162, 191, 163]
+	},
+	{
+		"id": 54,
+		"name": "Sand Purple",
+		"group": 1,
+		"rgb": [181, 125, 165]
+	},
+	{
+		"id": 58,
+		"name": "Sand Red",
+		"group": 1,
+		"rgb": [197, 141, 128]
+	},
+	{
+		"id": 87,
+		"name": "Sky Blue",
+		"group": 1,
+		"rgb": [138, 212, 225]
+	},
+	{
+		"id": 2,
+		"name": "Tan",
+		"group": 1,
+		"rgb": [238, 217, 164]
+	},
+	{
+		"id": 99,
+		"name": "Very Light Bluish Gray",
+		"group": 1,
+		"rgb": [228, 232, 232]
+	},
+	{
+		"id": 49,
+		"name": "Very Light Gray",
+		"group": 1,
+		"rgb": [232, 232, 232]
+	},
+	{
+		"id": 96,
+		"name": "Very Light Orange",
+		"group": 1,
+		"rgb": [255, 220, 164]
+	},
+	{
+		"id": 43,
+		"name": "Violet",
+		"group": 1,
+		"rgb": [52, 72, 164]
+	},
+	{
+		"id": 1,
+		"name": "White",
+		"group": 1,
+		"rgb": [255, 255, 255]
+	},
+	{
+		"id": 3,
+		"name": "Yellow",
+		"group": 1,
+		"rgb": [255, 224, 1]
+	},
+	{
+		"id": 158,
+		"name": "Yellowish Green",
+		"group": 1,
+		"rgb": [231, 242, 167]
+	},
+	{
+		"id": 113,
+		"name": "Trans-Aqua",
+		"group": 2,
+		"rgb": [183, 200, 191]
+	},
+	{
+		"id": 251,
+		"name": "Trans-Black",
+		"group": 2,
+		"rgb": [119, 119, 119]
+	},
+	{
+		"id": 108,
+		"name": "Trans-Bright Green",
+		"group": 2,
+		"rgb": [16, 203, 49]
+	},
+	{
+		"id": 13,
+		"name": "Trans-Brown (Old Trans-Black)",
+		"group": 2,
+		"rgb": [147, 148, 132]
+	},
+	{
+		"id": 12,
+		"name": "Trans-Clear",
+		"group": 2,
+		"rgb": [238, 238, 238]
+	},
+	{
+		"id": 14,
+		"name": "Trans-Dark Blue",
+		"group": 2,
+		"rgb": [0, 41, 107]
+	},
+	{
+		"id": 50,
+		"name": "Trans-Dark Pink",
+		"group": 2,
+		"rgb": [206, 29, 155]
+	},
+	{
+		"id": 20,
+		"name": "Trans-Green",
+		"group": 2,
+		"rgb": [33, 118, 37]
+	},
+	{
+		"id": 15,
+		"name": "Trans-Light Blue",
+		"group": 2,
+		"rgb": [104, 188, 197]
+	},
+	{
+		"id": 226,
+		"name": "Trans-Light Bright Green",
+		"group": 2,
+		"rgb": [113, 235, 84]
+	},
+	{
+		"id": 221,
+		"name": "Trans-Light Green",
+		"group": 2,
+		"rgb": [148, 229, 171]
+	},
+	{
+		"id": 164,
+		"name": "Trans-Light Orange",
+		"group": 2,
+		"rgb": [233, 154, 58]
+	},
+	{
+		"id": 114,
+		"name": "Trans-Light Purple",
+		"group": 2,
+		"rgb": [185, 122, 177]
+	},
+	{
+		"id": 74,
+		"name": "Trans-Medium Blue",
+		"group": 2,
+		"rgb": [118, 163, 200]
+	},
+	{
+		"id": 234,
+		"name": "Trans-Medium Purple",
+		"group": 2,
+		"rgb": [156, 65, 182]
+	},
+	{
+		"id": 16,
+		"name": "Trans-Neon Green",
+		"group": 2,
+		"rgb": [192, 245, 0]
+	},
+	{
+		"id": 18,
+		"name": "Trans-Neon Orange",
+		"group": 2,
+		"rgb": [255, 66, 49]
+	},
+	{
+		"id": 121,
+		"name": "Trans-Neon Yellow",
+		"group": 2,
+		"rgb": [255, 215, 0]
+	},
+	{
+		"id": 98,
+		"name": "Trans-Orange",
+		"group": 2,
+		"rgb": [233, 111, 1]
+	},
+	{
+		"id": 107,
+		"name": "Trans-Pink",
+		"group": 2,
+		"rgb": [255, 130, 152]
+	},
+	{
+		"id": 51,
+		"name": "Trans-Purple",
+		"group": 2,
+		"rgb": [85, 37, 183]
+	},
+	{
+		"id": 17,
+		"name": "Trans-Red",
+		"group": 2,
+		"rgb": [156, 0, 16]
+	},
+	{
+		"id": 19,
+		"name": "Trans-Yellow",
+		"group": 2,
+		"rgb": [235, 247, 45]
+	},
+	{
+		"id": 57,
+		"name": "Chrome Antique Brass",
+		"group": 3,
+		"rgb": [100, 90, 76]
+	},
+	{
+		"id": 122,
+		"name": "Chrome Black",
+		"group": 3,
+		"rgb": [84, 78, 79]
+	},
+	{
+		"id": 52,
+		"name": "Chrome Blue",
+		"group": 3,
+		"rgb": [92, 102, 164]
+	},
+	{
+		"id": 21,
+		"name": "Chrome Gold",
+		"group": 3,
+		"rgb": [241, 242, 225]
+	},
+	{
+		"id": 64,
+		"name": "Chrome Green",
+		"group": 3,
+		"rgb": [60, 179, 113]
+	},
+	{
+		"id": 82,
+		"name": "Chrome Pink",
+		"group": 3,
+		"rgb": [170, 77, 142]
+	},
+	{
+		"id": 22,
+		"name": "Chrome Silver",
+		"group": 3,
+		"rgb": [220, 220, 220]
+	},
+	{
+		"id": 237,
+		"name": "Bionicle Copper",
+		"group": 4,
+		"rgb": [152, 87, 80]
+	},
+	{
+		"id": 238,
+		"name": "Bionicle Gold",
+		"group": 4,
+		"rgb": [185, 117, 47]
+	},
+	{
+		"id": 239,
+		"name": "Bionicle Silver",
+		"group": 4,
+		"rgb": [165, 146, 135]
+	},
+	{
+		"id": 84,
+		"name": "Copper",
+		"group": 4,
+		"rgb": [172, 109, 82]
+	},
+	{
+		"id": 81,
+		"name": "Flat Dark Gold",
+		"group": 4,
+		"rgb": [173, 113, 24]
+	},
+	{
+		"id": 95,
+		"name": "Flat Silver",
+		"group": 4,
+		"rgb": [141, 148, 156]
+	},
+	{
+		"id": 244,
+		"name": "Pearl Black",
+		"group": 4,
+		"rgb": [40, 39, 37]
+	},
+	{
+		"id": 77,
+		"name": "Pearl Dark Gray",
+		"group": 4,
+		"rgb": [102, 102, 96]
+	},
+	{
+		"id": 115,
+		"name": "Pearl Gold",
+		"group": 4,
+		"rgb": [231, 158, 29]
+	},
+	{
+		"id": 61,
+		"name": "Pearl Light Gold",
+		"group": 4,
+		"rgb": [231, 174, 90]
+	},
+	{
+		"id": 66,
+		"name": "Pearl Light Gray",
+		"group": 4,
+		"rgb": [172, 183, 192]
+	},
+	{
+		"id": 78,
+		"name": "Pearl Sand Blue",
+		"group": 4,
+		"rgb": [134, 143, 170]
+	},
+	{
+		"id": 243,
+		"name": "Pearl Sand Purple",
+		"group": 4,
+		"rgb": [181, 161, 186]
+	},
+	{
+		"id": 119,
+		"name": "Pearl Very Light Gray",
+		"group": 4,
+		"rgb": [212, 210, 205]
+	},
+	{
+		"id": 83,
+		"name": "Pearl White",
+		"group": 4,
+		"rgb": [255, 255, 255]
+	},
+	{
+		"id": 249,
+		"name": "Reddish Copper",
+		"group": 4,
+		"rgb": [208, 105, 38]
+	},
+	{
+		"id": 235,
+		"name": "Reddish Gold",
+		"group": 4,
+		"rgb": [231, 137, 27]
+	},
+	{
+		"id": 233,
+		"name": "Satin Trans-Bright Green",
+		"group": 5,
+		"rgb": [127, 225, 91]
+	},
+	{
+		"id": 229,
+		"name": "Satin Trans-Brown",
+		"group": 5,
+		"rgb": [147, 148, 132]
+	},
+	{
+		"id": 228,
+		"name": "Satin Trans-Clear",
+		"group": 5,
+		"rgb": [255, 255, 255]
+	},
+	{
+		"id": 232,
+		"name": "Satin Trans-Dark Blue",
+		"group": 5,
+		"rgb": [21, 82, 226]
+	},
+	{
+		"id": 224,
+		"name": "Satin Trans-Dark Pink",
+		"group": 5,
+		"rgb": [206, 29, 155]
+	},
+	{
+		"id": 223,
+		"name": "Satin Trans-Light Blue",
+		"group": 5,
+		"rgb": [104, 188, 197]
+	},
+	{
+		"id": 230,
+		"name": "Satin Trans-Purple",
+		"group": 5,
+		"rgb": [131, 32, 183]
+	},
+	{
+		"id": 250,
+		"name": "Metallic Copper",
+		"group": 6,
+		"rgb": [197, 130, 89]
+	},
+	{
+		"id": 65,
+		"name": "Metallic Gold",
+		"group": 6,
+		"rgb": [184, 134, 11]
+	},
+	{
+		"id": 70,
+		"name": "Metallic Green",
+		"group": 6,
+		"rgb": [189, 181, 115]
+	},
+	{
+		"id": 67,
+		"name": "Metallic Silver",
+		"group": 6,
+		"rgb": [192, 192, 192]
+	},
+	{
+		"id": 46,
+		"name": "Glow In Dark Opaque",
+		"group": 7,
+		"rgb": [212, 213, 201]
+	},
+	{
+		"id": 118,
+		"name": "Glow In Dark Trans",
+		"group": 7,
+		"rgb": [189, 198, 173]
+	},
+	{
+		"id": 159,
+		"name": "Glow In Dark White",
+		"group": 7,
+		"rgb": [217, 217, 217]
+	},
+	{
+		"id": 60,
+		"name": "Milky White",
+		"group": 7,
+		"rgb": [212, 211, 221]
+	},
+	{
+		"id": 101,
+		"name": "Glitter Trans-Clear",
+		"group": 8,
+		"rgb": [178, 173, 170]
+	},
+	{
+		"id": 100,
+		"name": "Glitter Trans-Dark Pink",
+		"group": 8,
+		"rgb": [206, 29, 155]
+	},
+	{
+		"id": 162,
+		"name": "Glitter Trans-Light Blue",
+		"group": 8,
+		"rgb": [104, 188, 197]
+	},
+	{
+		"id": 163,
+		"name": "Glitter Trans-Neon Green",
+		"group": 8,
+		"rgb": [192, 245, 0]
+	},
+	{
+		"id": 222,
+		"name": "Glitter Trans-Orange",
+		"group": 8,
+		"rgb": [208, 64, 16]
+	},
+	{
+		"id": 102,
+		"name": "Glitter Trans-Purple",
+		"group": 8,
+		"rgb": [58, 43, 130]
+	},
+	{
+		"id": 116,
+		"name": "Speckle Black-Copper",
+		"group": 9,
+		"rgb": [95, 78, 71]
+	},
+	{
+		"id": 151,
+		"name": "Speckle Black-Gold",
+		"group": 9,
+		"rgb": [171, 148, 33]
+	},
+	{
+		"id": 111,
+		"name": "Speckle Black-Silver",
+		"group": 9,
+		"rgb": [124, 126, 124]
+	},
+	{
+		"id": 117,
+		"name": "Speckle DBGray-Silver",
+		"group": 9,
+		"rgb": [74, 99, 99]
+	},
+	{
+		"id": 142,
+		"name": "Mx Aqua Green",
+		"group": 10,
+		"rgb": [39, 134, 126]
+	},
+	{
+		"id": 128,
+		"name": "Mx Black",
+		"group": 10,
+		"rgb": [0, 0, 0]
+	},
+	{
+		"id": 132,
+		"name": "Mx Brown",
+		"group": 10,
+		"rgb": [144, 116, 80]
+	},
+	{
+		"id": 133,
+		"name": "Mx Buff",
+		"group": 10,
+		"rgb": [222, 198, 156]
+	},
+	{
+		"id": 126,
+		"name": "Mx Charcoal Gray",
+		"group": 10,
+		"rgb": [89, 93, 96]
+	},
+	{
+		"id": 149,
+		"name": "Mx Clear",
+		"group": 10,
+		"rgb": [255, 255, 255]
+	},
+	{
+		"id": 214,
+		"name": "Mx Foil Dark Blue",
+		"group": 10,
+		"rgb": [0, 87, 166]
+	},
+	{
+		"id": 210,
+		"name": "Mx Foil Dark Gray",
+		"group": 10,
+		"rgb": [89, 93, 96]
+	},
+	{
+		"id": 212,
+		"name": "Mx Foil Dark Green",
+		"group": 10,
+		"rgb": [0, 100, 0]
+	},
+	{
+		"id": 215,
+		"name": "Mx Foil Light Blue",
+		"group": 10,
+		"rgb": [104, 174, 206]
+	},
+	{
+		"id": 211,
+		"name": "Mx Foil Light Gray",
+		"group": 10,
+		"rgb": [156, 156, 156]
+	},
+	{
+		"id": 213,
+		"name": "Mx Foil Light Green",
+		"group": 10,
+		"rgb": [125, 181, 56]
+	},
+	{
+		"id": 219,
+		"name": "Mx Foil Orange",
+		"group": 10,
+		"rgb": [247, 173, 99]
+	},
+	{
+		"id": 217,
+		"name": "Mx Foil Red",
+		"group": 10,
+		"rgb": [139, 0, 0]
+	},
+	{
+		"id": 216,
+		"name": "Mx Foil Violet",
+		"group": 10,
+		"rgb": [75, 0, 130]
+	},
+	{
+		"id": 218,
+		"name": "Mx Foil Yellow",
+		"group": 10,
+		"rgb": [254, 213, 87]
+	},
+	{
+		"id": 139,
+		"name": "Mx Lemon",
+		"group": 10,
+		"rgb": [189, 198, 24]
+	},
+	{
+		"id": 124,
+		"name": "Mx Light Bluish Gray",
+		"group": 10,
+		"rgb": [175, 181, 199]
+	},
+	{
+		"id": 125,
+		"name": "Mx Light Gray",
+		"group": 10,
+		"rgb": [156, 156, 156]
+	},
+	{
+		"id": 136,
+		"name": "Mx Light Orange",
+		"group": 10,
+		"rgb": [247, 173, 99]
+	},
+	{
+		"id": 137,
+		"name": "Mx Light Yellow",
+		"group": 10,
+		"rgb": [255, 227, 113]
+	},
+	{
+		"id": 144,
+		"name": "Mx Medium Blue",
+		"group": 10,
+		"rgb": [97, 175, 255]
+	},
+	{
+		"id": 138,
+		"name": "Mx Ochre Yellow",
+		"group": 10,
+		"rgb": [254, 213, 87]
+	},
+	{
+		"id": 140,
+		"name": "Mx Olive Green",
+		"group": 10,
+		"rgb": [124, 144, 81]
+	},
+	{
+		"id": 135,
+		"name": "Mx Orange",
+		"group": 10,
+		"rgb": [244, 123, 48]
+	},
+	{
+		"id": 145,
+		"name": "Mx Pastel Blue",
+		"group": 10,
+		"rgb": [104, 174, 206]
+	},
+	{
+		"id": 141,
+		"name": "Mx Pastel Green",
+		"group": 10,
+		"rgb": [125, 181, 56]
+	},
+	{
+		"id": 148,
+		"name": "Mx Pink",
+		"group": 10,
+		"rgb": [247, 133, 177]
+	},
+	{
+		"id": 130,
+		"name": "Mx Pink Red",
+		"group": 10,
+		"rgb": [244, 92, 64]
+	},
+	{
+		"id": 129,
+		"name": "Mx Red",
+		"group": 10,
+		"rgb": [181, 44, 32]
+	},
+	{
+		"id": 146,
+		"name": "Mx Teal Blue",
+		"group": 10,
+		"rgb": [70, 112, 131]
+	},
+	{
+		"id": 134,
+		"name": "Mx Terracotta",
+		"group": 10,
+		"rgb": [92, 80, 48]
+	},
+	{
+		"id": 143,
+		"name": "Mx Tile Blue",
+		"group": 10,
+		"rgb": [0, 87, 166]
+	},
+	{
+		"id": 131,
+		"name": "Mx Tile Brown",
+		"group": 10,
+		"rgb": [51, 0, 0]
+	},
+	{
+		"id": 127,
+		"name": "Mx Tile Gray",
+		"group": 10,
+		"rgb": [107, 90, 90]
+	},
+	{
+		"id": 147,
+		"name": "Mx Violet",
+		"group": 10,
+		"rgb": [189, 125, 133]
+	},
+	{
+		"id": 123,
+		"name": "Mx White",
+		"group": 10,
+		"rgb": [255, 255, 255]
+	}
+]
